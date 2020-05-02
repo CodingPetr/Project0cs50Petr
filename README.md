@@ -1,3 +1,5 @@
-# Project0cs50Petr
-Personal Motorcycle Shop Webpage Project
-Here we have a motorcycle shop that has everything you need.
+<!DOCTYPE html>
+<html> 
+<head> This Motorcycle Webpage is Awesome! </head>
+<h1>Here we have a motorcycle shop that has everything you need.</h1>
+
