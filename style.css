@@ -25,15 +25,6 @@ button {
   background-color: #28a1da;
 }
 
-.No {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-size: 40px;
-  border-radius: 20px;
-  border: solid;
-  color: white;
-  background-color: #28a1da;
-}
-
 .he1 {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-size: 40px;
@@ -45,20 +36,16 @@ button {
   background-color: #28a1da;
 }
 
-.service {
-  text-align: center;
-}
-
-.p {
-  font-size: 70px;
-  text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  color: black;
-  background-color: green;
+#writing .p {
   border-top-left-radius: 40pc;
   border-top-right-radius: 40pc;
   border-bottom-left-radius: 40pc;
   border-bottom-right-radius: 40pc;
+  font-size: 50px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: black;
+  background-color: green;
 }
 
 .gear {
@@ -139,6 +126,14 @@ ul[type=a] {
   border-radius: 90px;
   margin: 15px;
   background-color: black;
+}
+
+.service {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 100px;
+  text-align: center;
+  color: black;
+  background-color: green;
 }
 
 /*# sourceMappingURL=style.css.map */
